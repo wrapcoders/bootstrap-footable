@@ -1,0 +1,21 @@
+{
+	"name": "bootstrap-footable",
+	"version": "1.0.1",
+	"description": "FooTable has a few easy and quick ways to get started. There is a Bootstrap version which adheres to your current Bootstrap theme. A standalone version for those of you who do not want to use Bootstrap, and finally there is a download which contains each individual component used to create both the Bootstrap and standalone versions.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"tables",
+		"footable",
+		"bootstrap",
+		"footable-tables",
+		"bootstrap-footable",
+		"footable-bootstrap",
+		"responsive-footable",
+		"full-features-footable"
+	],
+	"author": "WRAPCODERS",
+	"license": "ISC"
+}
